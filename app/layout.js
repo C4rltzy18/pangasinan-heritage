@@ -1,3 +1,5 @@
+import './globals.css';
+
 export const metadata = {
   title: 'Pangasinan Heritage',
   description: 'Discover, Learn, and Explore Pangasinan heritage.'
